@@ -1,4 +1,4 @@
-# Visually grounded few-shot word learning in low-resource settings: Few-shot MattNet
+# Visually grounded few-shot word learning in low-resource settings: Indirect few-shot MattNet
 
 This repo provides the source code for the MattNet model that uses the indirect method to do few-shot classification and retrieval.
 I.e. MattNet not fine-tuned on the mined few-shot pairs.
