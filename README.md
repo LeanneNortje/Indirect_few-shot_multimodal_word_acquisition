@@ -11,6 +11,7 @@ The following instructions should be followed within each of the model folders. 
 ## Data
 
 Copy the ```support_set``` folder from [here](https://github.com/LeanneNortje/Mulitmodal_few-shot_word_acquisition.git).
+If this support set is not used, take note that the ```label_key.npz``` file should be regenerated using the support set repo.
 Download the MSCOCO data [here](https://cocodataset.org/#download). We used the 2014 splits, but all the image samples can be taken from the 2017 splits as well. Just replace the ```train_2014``` and ```val_2014``` in the image names with ```train_2017``` and ```val_2017```.
 
 ## Preprocessing
